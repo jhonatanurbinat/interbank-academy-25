@@ -40,7 +40,8 @@ Imprime el reporte con los resultados.
 Estructura del Proyecto
 bash
 Copiar
-.
+
+```
 ├── main.py                # Archivo principal con el código
 ├── data.csv               # Archivo CSV con las transacciones (ejemplo)
 └── README.md              # Este archivo
