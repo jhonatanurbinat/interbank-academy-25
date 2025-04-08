@@ -46,3 +46,13 @@ Copiar
 └── README.md              # Este archivo
 Documentación y Calidad del Código
 El código está documentado con comentarios para explicar los pasos clave en cada función. Además, se siguen buenas prácticas para la legibilidad y mantenimiento del código.
+
+
+### Detalle de la ejecucion
+
+$ python scriptv.py
+Reporte de Transacciones
+---------------------------------------------
+Balance Final: 10985.85
+Transaccion de Mayor Monto: ID 222 - 499.69
+Conteo de Transacciones: Credito: 508 Debito: 492
